@@ -1,0 +1,11 @@
+#include <std.io>
+
+
+{ 
+
+
+printf("hello...i've no idea what i'm doing rn ");
+
+
+return 0;
+}
